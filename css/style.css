@@ -1,0 +1,22 @@
+.container{
+    margin-top: 20px;
+}
+
+.card {
+    margin: 10px;
+}
+
+#result{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.card-block{
+    text-align: center;
+    padding: 15px 0;
+}
+
+.bg-light div {
+    text-align: center;
+    padding: 10px 0;
+}
